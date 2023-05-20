@@ -1,3 +1,4 @@
+
 def area_rectangulo(base, altura):
     area = base * altura
     return area
